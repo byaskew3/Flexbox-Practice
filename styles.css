@@ -1,8 +1,13 @@
-body {
-    height: 100vh;
+* {
     margin: 0;
     padding: 0;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+html, body {
+    /* height: 100vh; */
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .navigation {
@@ -67,6 +72,6 @@ a {
 .footer {
     justify-content: center;
     align-items: center;
-    background: rgb(236, 236, 236);
+    background: rgb(195, 195, 195);
     color: purple;
 }
