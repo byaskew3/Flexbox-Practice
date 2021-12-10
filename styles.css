@@ -4,9 +4,7 @@
 }
 
 html, body {
-    /* height: 100vh; */
-    margin: 0;
-    padding: 0;
+    min-height: 100vh;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
